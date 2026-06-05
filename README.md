@@ -2,7 +2,7 @@
 
 Public demo repository that runs `oss-signal` as a GitHub Action and publishes maintainer-readiness evidence.
 
-The workflow uses `SalmonPlays/oss-signal@v0.8.2` to demonstrate:
+The workflow uses `SalmonPlays/oss-signal@v0.8.4` to demonstrate:
 
 - Markdown maintainer-readiness reports.
 - SARIF output for GitHub Code Scanning upload.
